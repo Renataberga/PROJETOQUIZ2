@@ -29,8 +29,6 @@ O sistema deve validar a resposta fornecida e informar imediatamente se ela est�
 
 O sistema deve somar pontos apenas para respostas corretas;
 
-O sistema deve apresentar a pontuação total ao término das 10 perguntas.
-
 ### Possíveis requisitos não-funcionais:
 O sistema deve ter uma interface intuitiva para facilitar a navegação entre perguntas;
 
