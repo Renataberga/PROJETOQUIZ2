@@ -6,11 +6,13 @@ O sistema a ser desenvolvido é um jogo de perguntas e respostas (Quiz) que perm
 
 Durante o jogo, o jogador tem a opção de:
 
-Responder à pergunta apresentada;
+-Escolher o tema das perguntas;
 
-Pular a pergunta e ir para a próxima;
+-Responder à pergunta apresentada;
 
-Voltar para a pergunta anterior.
+-Pular a pergunta e ir para a próxima;
+
+-Voltar para a pergunta anterior.
 
 Após responder cada pergunta, o sistema informa imediatamente se a resposta está correta ou incorreta e, em seguida, permite avançar para a próxima pergunta.
 
