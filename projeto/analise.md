@@ -44,7 +44,6 @@ O sistema deve ser leve e responsivo (se implementado como aplicação web ou m�
 
 ## Diagrama de Casos de Uso
 
-Apresentar o diagram de casos de uso, identificando as funcionalidades do sistema assim como os atores envolvidos
 ![image](https://github.com/user-attachments/assets/2f569805-29d0-42c7-8fef-ec699d00f876)
 
  
