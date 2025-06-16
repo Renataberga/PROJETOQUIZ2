@@ -10,9 +10,11 @@ Durante o jogo, o jogador tem a opção de:
 
 -Responder à pergunta apresentada;
 
--Pular a pergunta e ir para a próxima;
+-Pular a pergunta ou ir para a próxima;
 
--Voltar para a pergunta anterior.
+-Voltar para a pergunta anterior;
+
+-Reiniciar o jogo.
 
 Após responder cada pergunta, o sistema informa imediatamente se a resposta está correta ou incorreta e, em seguida, permite avançar para a próxima pergunta.
 
