@@ -1,6 +1,4 @@
 # Análise orientada a objeto
-> [!NOTE]
-> A **análise** orientada a objeto consiste na descrição do problema a ser tratado, duas primeiras etapas da tabela abaixo, a definição de casos de uso e a definição do domínio do problema.
 
 ## Descrição Geral do domínio do problema
 
