@@ -2,7 +2,7 @@
 
 ## Descrição Geral do domínio do problema
 
-O sistema a ser desenvolvido é um jogo de perguntas e respostas (Quiz) que permite ao jogador escolher entre diferentes temas disponíveis. Após selecionar o tema, o jogador deve responder a um total de 10 perguntas relacionadas ao tema escolhido.
+O sistema a ser desenvolvido é um jogo de perguntas e respostas (Quiz) que permite ao jogador escolher entre diferentes temas disponíveis (Entretenimento, História, Ciência e Aleatório). Após selecionar o tema, o jogador deve responder a um total de 10 perguntas relacionadas ao tema escolhido.
 
 Durante o jogo, o jogador tem a opção de:
 
