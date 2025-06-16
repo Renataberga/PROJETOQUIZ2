@@ -4,9 +4,19 @@
 
 ## Descrição Geral do domínio do problema
 
-Descrever de forma geral o domínio do problema.
+O sistema a ser desenvolvido é um jogo de perguntas e respostas (Quiz) que permite ao jogador escolher entre diferentes temas disponíveis. Após selecionar o tema, o jogador deve responder a um total de 10 perguntas relacionadas ao tema escolhido.
 
-Possíveis requisitos funcionais e não-funcionais podem ser elencados aqui.
+Durante o jogo, o jogador tem a opção de:
+
+Responder à pergunta apresentada;
+
+Pular a pergunta e ir para a próxima;
+
+Voltar para a pergunta anterior.
+
+Após responder cada pergunta, o sistema informa imediatamente se a resposta está correta ou incorreta e, em seguida, permite avançar para a próxima pergunta.
+
+A cada resposta correta, o sistema soma pontos à pontuação total do jogador. Ao final das 10 perguntas, o sistema exibe a pontuação total obtida pelo jogador
 
 ## Diagrama de Casos de Uso
 
