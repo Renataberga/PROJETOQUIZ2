@@ -6,7 +6,7 @@
 
 O "Desafio das Perguntas" é um jogo de quiz onde o jogador escolhe um tema entre as opções disponíveis e responde a uma série de 10 perguntas relacionadas ao tema selecionado. O jogador pode responder à pergunta, pular para a próxima ou voltar para a pergunta anterior a qualquer momento.
 
-Cada resposta é avaliada imediatamente pelo sistema, informando ao jogador se está correta ou incorreta, e a pontuação é atualizada conforme as respostas certas. Ao final do jogo, o sistema exibe a pontuação total obtida pelo jogador, permitindo avaliar seu desempenho no tema escolhido.
+Cada resposta fornecida pelo jogador é avaliada instantaneamente pelo sistema, que indica se a escolha foi correta ou incorreta. Em caso de erro, a alternativa correta é revelada. A pontuação é ajustada de acordo com as respostas certas e, ao término do jogo, o sistema apresenta a pontuação final, permitindo que o jogador avalie seu desempenho no tema selecionado.
 
 > Aluna: Renata Rocha Bergamaschi.
 > Professor: Hugo Marcondes
