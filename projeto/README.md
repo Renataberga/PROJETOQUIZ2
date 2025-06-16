@@ -8,7 +8,7 @@ O "Desafio das Perguntas" é um jogo de quiz onde o jogador escolhe um tema entr
 
 Cada resposta é avaliada imediatamente pelo sistema, informando ao jogador se está correta ou incorreta, e a pontuação é atualizada conforme as respostas certas. Ao final do jogo, o sistema exibe a pontuação total obtida pelo jogador, permitindo avaliar seu desempenho no tema escolhido.
 
-> Aluna: Renata Rocha Bergamaschi
+> Aluna: Renata Rocha Bergamaschi.
 > Professor: Hugo Marcondes
 
 <p align=center><strong>SUMÁRIO</strong></p>
