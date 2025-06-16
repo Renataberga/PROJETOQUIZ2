@@ -40,9 +40,8 @@ O sistema deve permitir a seleção de temas antes do início do quiz;
 
 ## Diagrama de Casos de Uso
 
-![image](https://github.com/user-attachments/assets/2f569805-29d0-42c7-8fef-ec699d00f876)
+![Sem título](https://github.com/user-attachments/assets/7d03d422-ec01-4e7a-8705-ed21f2411cff)
 
- 
 ## Diagrama de Domínio do problema
 
 Elaborar um diagrama conceitual do domínio do problema.
