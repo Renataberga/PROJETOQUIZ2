@@ -33,6 +33,8 @@ A cada resposta submetida, o sistema informará imediatamente se a alternativa e
 * Interface intuitiva e de fácil navegação entre as perguntas;
 * Tempo de resposta para troca de perguntas inferior a 2 segundos.
 
+---
+
 ## Diagrama de Casos de Uso
 
 ![Sem título](https://github.com/user-attachments/assets/7d03d422-ec01-4e7a-8705-ed21f2411cff)
