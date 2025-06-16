@@ -44,9 +44,6 @@ O tempo de resposta para troca de pergunta não deve ultrapassar 2 segundos;
 
 ![Sem título](https://github.com/user-attachments/assets/7d03d422-ec01-4e7a-8705-ed21f2411cff)
 
-## Diagrama de Domínio do problema
-
-Elaborar um diagrama conceitual do domínio do problema.
 
 
 <div align="center">
