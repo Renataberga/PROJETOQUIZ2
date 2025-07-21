@@ -1,12 +1,11 @@
 # Implementação
 
->[!NOTE] 
- Relatar o processo de implementação do problemas, incluindo as
- ferramentas e bibliotecas utilizadas
->
 
-<div align="center">
+Atualizei os diagramas de classes e de casos de uso com base na implementação final do sistema.
 
-[Retroceder](projeto.md) | [Início](analise.md)
 
-</div>
+
+<img width="603" height="694" alt="image" src="https://github.com/user-attachments/assets/3be5e6af-3b38-4612-9262-36216cdab071" />
+
+
+<img width="717" height="719" alt="image" src="https://github.com/user-attachments/assets/c6ce33d7-ea42-41c1-91fd-c9f58be3b481" />
