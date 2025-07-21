@@ -1,5 +1,4 @@
-// Aqui é construído e configurado todos os elementos da interface e implemento a reação a cada botão — iniciar, responder, avançar ou reiniciar.
-// Tudo interage com as outras classes aqui.
+//Aqui foi construído e configurado todos os elementos da interface e implemento a reação a cada botão, iniciar, responder, avançar ou reiniciar.
 
 #include "mainwindow.h"
 #include <QVBoxLayout>
@@ -9,6 +8,8 @@
 // Construtor da MainWindow, inicializa a janela principal e componentes
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent), jogador("Jogador") {          // inicializa QMainWindow e o jogador com nome "Jogador"
+
+    setFixedSize(600, 700);                              // Define tamanho fixo inicial da janela.
 
     QWidget *central = new QWidget(this);                // Cria widget central que conterá o layout
     QVBoxLayout *layout = new QVBoxLayout(central);      // Layout vertical para organizar os widgets no centro
@@ -23,7 +24,7 @@ MainWindow::MainWindow(QWidget *parent)
     fontTitulo.setBold(true);                            // Define o texto em negrito
     titulo->setFont(fontTitulo);                         // Aplica a fonte personalizada ao label
     layout->addWidget(titulo);                           // Adiciona o título ao layout
-    layout->addSpacing(40);                              // Adiciona espaço fixo de 10px após o título
+    layout->addSpacing(40);                              // Adiciona espaço fixo após o título
 
     // ---------- BOTÃO INICIAR ----------
     botaoIniciar = new QPushButton("Iniciar Jogo", this); // Cria botão para iniciar o jogo
@@ -143,7 +144,7 @@ void MainWindow::responder() {
     } else {
         // Mostra mensagem de erro e resposta correta
         labelResultado->setText("Errado!\nResposta correta: " +
-        quiz.getPerguntaAtual().opcoes[quiz.getPerguntaAtual().respostaCorreta]);
+                                quiz.getPerguntaAtual().opcoes[quiz.getPerguntaAtual().respostaCorreta]);
     }
     botaoProxima->show();                                      // Mostra botão para próxima pergunta
 }

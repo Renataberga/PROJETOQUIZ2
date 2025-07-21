@@ -1,4 +1,4 @@
-// A lógica pesada do quiz fica aqui: carregar perguntas por tema, sortear perguntas se for aleatório e validar se o jogador respondeu certo.
+// A lógica pesada do quiz fica aqui: carrega perguntas por tema, sortea perguntas se for no modo aleatório e valida se o jogador respondeu certo.
 
 #include "quiz.h"
 #include <QRandomGenerator>

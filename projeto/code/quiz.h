@@ -1,4 +1,4 @@
-// Aqui é definida a estrutura do quiz como um todo. Ela armazena todas as perguntas e gerencia qual está sendo exibida.
+// Aqui foi definido a estrutura do quiz como um todo. Ele armazena todas as perguntas e gerencia qual está sendo exibida.
 #ifndef QUIZ_H
 #define QUIZ_H
 

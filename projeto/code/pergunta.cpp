@@ -1,4 +1,4 @@
-// A implementação verifica se a resposta escolhida bate com o índice correto. Isso deixa a validação encapsulada dentro da própria pergunta.
+// Essa implementação verifica se a resposta escolhida bate com o índice correto. Isso deixa a validação encapsulada dentro da própria pergunta.
 
 #include "pergunta.h"  // Inclui o cabeçalho da classe Pergunta
 

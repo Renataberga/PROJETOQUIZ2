@@ -1,5 +1,4 @@
-// Foi estruturado como cada pergunta funciona: ela guarda o enunciado, as opções e qual é a correta.
-
+// Aqui é a como cada pergunta funciona: ela guarda o enunciado, as opções e qual é a correta
 #ifndef PERGUNTA_H
 #define PERGUNTA_H
 
@@ -21,3 +20,4 @@ public:
 };
 
 #endif // PERGUNTA_H
+

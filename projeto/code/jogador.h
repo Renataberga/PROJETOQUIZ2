@@ -1,5 +1,4 @@
-// Aqui é definida a estrutura da classe Jogador, com seus dados e o método público que permite somar pontos.
-
+// Aqui foi definido o cabeçalho, foi definido a estrutura da classe Jogador, com seus dados e o método público que permite somar pontos.
 #ifndef JOGADOR_H
 #define JOGADOR_H
 

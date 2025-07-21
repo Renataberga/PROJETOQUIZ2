@@ -19,3 +19,4 @@ int main(int argc, char *argv[]) {
     // Inicia o loop de eventos da aplicação Qt
     return app.exec();
 }
+
