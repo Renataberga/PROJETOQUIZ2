@@ -13,7 +13,7 @@
 
 <img width="739" height="899" alt="image" src="https://github.com/user-attachments/assets/db49f6fe-d692-44a2-9a4d-afe6248543ad" />
 
-# Ao final é possível ver uma mensagem de parabéns na tela  e a pontuação do jogador.
+# Ao final é possível ver uma mensagem de parabéns na tela  e a pontuação do jogador. Além de um botão para reiniciar o jogo. O jogo retorna na tela de temas para escolher novamente.
 
 <img width="738" height="902" alt="image" src="https://github.com/user-attachments/assets/7e0a4208-da1b-4a8e-804e-787958d7d1e5" />
 
