@@ -9,7 +9,7 @@
 
 <img width="750" height="897" alt="image" src="https://github.com/user-attachments/assets/a9282c69-f411-485e-a495-64aea9066f10" />
 
-# Após escolher o tema é direcionado para a primeira pergunta, onde você escolha a resposta e abaixo é informado se você acertou, caso tenha errado ele indorma e volta a resposta correta na tela
+# Após escolher o tema é direcionado para a primeira pergunta, onde você escolha a resposta e abaixo é informado se você acertou, caso tenha errado ele informa e volta a resposta correta na tela
 
 <img width="739" height="899" alt="image" src="https://github.com/user-attachments/assets/db49f6fe-d692-44a2-9a4d-afe6248543ad" />
 
